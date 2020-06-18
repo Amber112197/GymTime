@@ -1,0 +1,56 @@
+nav{
+    text-align: center;
+    background-color: red;
+    font-size: 20px;
+    padding: 3px;
+}
+nav a, nav a:link, nav a:visited{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+nav a:hover{
+    color: white;
+    background-color: black;
+}
+ul, li{
+    background-color: red;
+    color: white;
+}
+body{
+    background-color: black;
+}
+h1, h2{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+strong{
+    color: red;
+}
+em{
+    color: red;
+}
+.h{
+    text-decoration: underline;
+}
+#h2{
+    background-color: red;
+    margin: auto;
+    width: 20%;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: red;
+}
